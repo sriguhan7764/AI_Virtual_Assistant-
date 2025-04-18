@@ -14,7 +14,7 @@ A Python-based virtual assistant that listens to your voice commands and perform
 **Installation & Usage:**
 
 ```bash
-git clone https://github.com/yourusername/AI_Virtual_Assistant.git
+git clone https://github.com/sriguhan7764/AI_Virtual_Assistant-.git
 cd AI_Virtual_Assistant
 pip install -r requirements.txt
 python main.py
